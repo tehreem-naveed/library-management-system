@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "596489221118",
+    "project_id": "folioverse-fdc0f",
+    "storage_bucket": "folioverse-fdc0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596489221118:android:682e1470173eb64d9886af",
+        "android_client_info": {
+          "package_name": "com.example.folioverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596489221118-9kb4upv6q5515lrg32ntm6vofgtsg3cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.folioverse",
+            "certificate_hash": "13a5a2ac8135920ba72dac7ee7d73e4b43f5de1d"
+          }
+        },
+        {
+          "client_id": "596489221118-qq0r83imj7tv71u7ov34ipn85p1dif1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK9yHLEEhNoTGQ-ImnWK-qV-aIG_Lbw1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596489221118-qq0r83imj7tv71u7ov34ipn85p1dif1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
